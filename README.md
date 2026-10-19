@@ -16,6 +16,6 @@ How It Works:
 3. Intent Matching & Fallbacks: If no domain topic is detected, the bot checks general conversational intents (greeting, help, small talk) and returns an appropriate rule response, or provides a helpful fallback prompt if the query is unrecognized.
 4. History Tracking: Every user prompt and bot reply is formatted with a YYYY-MM-DD HH:MM:SS timestamp and appended to chat_history_log.txt. Users can also type history at any time to view the session log directly in the console.
 
-5. Execution:
+Execution:
 
-6. To run the chatbot locally, open your terminal in the project directory and run: python chatbot.py
+To run the chatbot locally, open your terminal in the project directory and run: python chatbot.py
