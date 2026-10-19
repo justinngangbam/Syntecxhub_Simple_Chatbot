@@ -1,0 +1,48 @@
+[2026-10-16 08:07:44] User: help
+[2026-10-16 08:07:44] SyntecxBot: I can help you with:
+  1. General conversation & small talk (e.g., 'How are you?', 'Who are you?')
+  2. Domain questions on AI (ask about 'AI', 'Machine Learning', 'Deep Learning', 'NLP', 'A* Search', or 'Python')
+  3. Commands: Type 'history' to see our chat log, or 'exit' to quit.
+[2026-10-16 08:08:10] User: how are you
+[2026-10-16 08:08:10] SyntecxBot: All systems operational! How is your day going?
+[2026-10-16 08:08:30] User: i am good too
+[2026-10-16 08:08:30] SyntecxBot: Could you rephrase that? You can type 'help' to see the topics in my knowledge base.
+[2026-10-16 08:08:37] User: help
+[2026-10-16 08:08:37] SyntecxBot: I can help you with:
+  1. General conversation & small talk (e.g., 'How are you?', 'Who are you?')
+  2. Domain questions on AI (ask about 'AI', 'Machine Learning', 'Deep Learning', 'NLP', 'A* Search', or 'Python')
+  3. Commands: Type 'history' to see our chat log, or 'exit' to quit.
+[2026-10-16 08:08:54] User: How are you?
+[2026-10-16 08:08:54] SyntecxBot: All systems operational! How is your day going?
+[2026-10-16 08:10:22] User: Who are you
+[2026-10-16 08:10:22] SyntecxBot: My name is SyntecxBot! I use pattern matching and a knowledge base to chat with you.
+[2026-10-16 08:10:32] User: AI
+[2026-10-16 08:10:32] SyntecxBot: Artificial Intelligence (AI) is the simulation of human intelligence processes by machines, especially computer systems. It includes learning, reasoning, problem-solving, and perception.
+[2026-10-16 08:10:47] User: Deep Learning
+[2026-10-16 08:10:47] SyntecxBot: Deep Learning is a subset of Machine Learning based on artificial neural networks with multiple layers. It powers advanced tasks like image recognition and large language models.
+[2026-10-16 08:15:47] User: hello
+[2026-10-16 08:15:47] SyntecxBot: Hi there! Ask me anything about Artificial Intelligence, or type 'help' to see what I can do.
+[2026-10-16 08:16:26] User: tell me about syntecxhub
+[2026-10-16 08:16:26] SyntecxBot: Syntecxhub is a forward-thinking company that bridges learning with practical experience through hands-on internship projects in AI, Data Science, Web Development, and more.
+[2026-10-16 08:17:01] User: what is the weather today
+[2026-10-16 08:17:01] SyntecxBot: Could you rephrase that? You can type 'help' to see the topics in my knowledge base.
+[2026-10-16 08:17:24] User: What is the weather today?
+[2026-10-16 08:17:24] SyntecxBot: I'm not sure I understand that yet. Try asking me about 'AI', 'Machine Learning', 'NLP', or type 'help'!
+[2026-10-16 08:17:45] User: history
+[2026-10-16 08:23:24] User: exit
+[2026-10-16 08:23:25] SyntecxBot: Goodbye! Thanks for chatting with me. Have a great day!
+[2026-10-16 08:24:08] User: hello
+[2026-10-16 08:24:08] SyntecxBot: Hi there! Ask me anything about Artificial Intelligence, or type 'help' to see what I can do.
+[2026-10-16 08:24:16] User: how are you
+[2026-10-16 08:24:16] SyntecxBot: I'm doing great and ready to answer your questions! How about you?
+[2026-10-16 08:24:22] User: how are you
+[2026-10-16 08:24:22] SyntecxBot: All systems operational! How is your day going?
+[2026-10-16 08:24:32] User: who are you
+[2026-10-16 08:24:32] SyntecxBot: I am SyntecxBot, a rule-based conversational AI built for the Syntecxhub Internship!
+[2026-10-16 08:25:12] User: what is the weather today
+[2026-10-16 08:25:12] SyntecxBot: Could you rephrase that? You can type 'help' to see the topics in my knowledge base.
+[2026-10-16 08:25:20] User: thanks
+[2026-10-16 08:25:20] SyntecxBot: Anytime! Feel free to ask another question.
+[2026-10-16 08:25:32] User: history
+[2026-10-16 08:25:41] User: exit
+[2026-10-16 08:25:41] SyntecxBot: Goodbye! Thanks for chatting with me. Have a great day!
